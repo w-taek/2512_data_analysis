@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# env / secrets
+.env
+.venv/
+*.key
+*.pem
+
+# data (large / reproducibility)
+data/raw_zips/
+data/raw/
+data/guide_book
+data/processed/
+
+# outputs
+reports/figures/tmp/
+reports/tmp/
+
+# editor
+.vscode/
+.idea/

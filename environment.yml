@@ -1,0 +1,12 @@
+name: 2512_DA
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - tqdm
+  - pyarrow
+prefix: /Users/w-taek/opt/anaconda3/envs/2512_DA
